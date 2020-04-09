@@ -1,5 +1,5 @@
-/* 作者：flyAkari 会飞的阿卡林 bilibili UID:751219
- * 本代码适用于ESP8266 NodeMCU + 12864显示屏
+ 
+/*本代码适用于ESP8266 NodeMCU + 12864显示屏
  * 7pin SPI引脚，正面看，从左到右依次为GND、VCC、D0、D1、RES、DC、CS
  *    ESP8266 ---  OLED
  *      3V    ---  VCC
